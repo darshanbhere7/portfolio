@@ -78,7 +78,7 @@ export default function Navbar() {
               className="hidden sm:inline-flex bg-gradient-to-r from-[var(--gradient-start)] to-[var(--gradient-mid)] text-white border-0 hover:shadow-md hover:shadow-[var(--glow-primary)] transition-shadow"
               asChild
             >
-              <a href="https://drive.google.com/file/d/1VtQGn99q1BUdh7bjxjXmf4qEvjN37pDM/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+              <a href="https://drive.google.com/file/d/1dycl-i37TTJwc3YFKKC64j5ZXkTC_H_D/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                 <Download className="h-4 w-4" />
                 Resume
               </a>
@@ -148,7 +148,7 @@ export default function Navbar() {
                     className="w-full bg-gradient-to-r from-[var(--gradient-start)] to-[var(--gradient-mid)] text-white border-0"
                     asChild
                   >
-                    <a href="https://drive.google.com/file/d/1VtQGn99q1BUdh7bjxjXmf4qEvjN37pDM/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2">
+                    <a href="https://drive.google.com/file/d/1dycl-i37TTJwc3YFKKC64j5ZXkTC_H_D/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2">
                       <Download className="h-4 w-4" />
                       Download Resume
                     </a>

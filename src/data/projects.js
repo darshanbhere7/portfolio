@@ -28,6 +28,7 @@ export const projects = [
       "RBAC",
     ],
     github: "https://github.com/darshanbhere7/PulseESG",
+    live: "https://pulse-esg.vercel.app/",
   },
   {
     title: "AlgoTraceX",
@@ -51,6 +52,7 @@ export const projects = [
       "RBAC",
     ],
     github: "https://github.com/darshanbhere7/algotracex",
+    live: "https://algo-trace-x.vercel.app/home",
   },
   {
     title: "CarsWorld",
@@ -74,6 +76,7 @@ export const projects = [
       "ImageKit",
     ],
     github: "https://github.com/darshanbhere7/carsworld",
+    live: "https://cars-world-dun.vercel.app/",
   },
   {
     title: "WanderSplit",

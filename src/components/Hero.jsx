@@ -195,7 +195,7 @@ export default function Hero() {
             className="group relative overflow-hidden bg-gradient-to-r from-[var(--gradient-start)] via-[var(--gradient-mid)] to-[var(--gradient-end)] text-white border-0 hover:shadow-lg hover:shadow-[var(--glow-primary)] transition-shadow duration-300"
             asChild
           >
-            <a href="https://drive.google.com/file/d/1VtQGn99q1BUdh7bjxjXmf4qEvjN37pDM/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+            <a href="https://drive.google.com/file/d/1dycl-i37TTJwc3YFKKC64j5ZXkTC_H_D/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
               <Download className="h-4 w-4 transition-transform group-hover:-translate-y-1" />
               Download Resume
             </a>
